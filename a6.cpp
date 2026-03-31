@@ -1,4 +1,5 @@
 //Max Consecutive Bit
+
 #include<iostream>
 using namespace std;
 
